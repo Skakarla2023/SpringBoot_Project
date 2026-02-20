@@ -36,6 +36,7 @@ This project is a **backend API** for an Employee Management System (EMS) built 
 
 ## Project Structure
 
+```sql
 com.skakarla.ems
 │
 ├── controller // REST API controllers
@@ -46,3 +47,4 @@ com.skakarla.ems
 ├── mapper // MapStruct or custom mappers
 ├── model // Entity classes
 └── exception // Custom exception handling
+```
